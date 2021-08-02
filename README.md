@@ -20,6 +20,7 @@
  ##
  
 <div>
-  <a href = "mailto:jonatas.88@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/jonatas-stein-da-silva" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "mailto:jonatas.88@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" height="40px" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/jonatas-stein-da-silva" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40px" target="_blank"></a>
+  <a href="https://www.kaggle.com/jonatassteindasilva" target="_blank"><img src="https://www.dataapplab.com/wp-content/uploads/2017/06/kaggle-logo-gray-300.png" height="40px" target="_blank"></a>
 </div>
