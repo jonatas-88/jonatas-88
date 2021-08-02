@@ -15,6 +15,9 @@
   <img align="center" alt="Jonatas-Selenium" height="30" width="40" src="https://api.iconify.design/logos-selenium.svg">
   <img align="center" alt="Jonatas-Linux" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
   <img align="center" alt="Jonatas-Rpi" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg">
+  <img align="center" alt="Jonatas-Excel" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg">
+ 
+ 
 </div>
 
  ##
