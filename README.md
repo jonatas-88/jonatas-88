@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jonatas-88
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Git, Data Engineering, SQL, MongoDB, Python...
+- 🌱 I’m currently learning Git / Github, Data Engineering, SQL, MongoDB, Docker, Python...
 
  <div>
   <a href="https://github.com/jonatas-88">
